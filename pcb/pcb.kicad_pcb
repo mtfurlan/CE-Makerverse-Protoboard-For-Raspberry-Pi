@@ -22199,86 +22199,6 @@
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061680bf7")
-		(at 155.962 133.694)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "c46f6586-582b-4ae1-aa83-38462dbf792d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "521f097e-229d-4f10-abaa-dea65177da51")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2d9db60b-b2df-4cc9-8625-f16c5cfd127b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "69c689be-55f6-46d4-9587-9f3709c825d3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c2bb6fc5-1a05-4f7b-953a-ab7b5e756519")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "c257b20c-f9e3-4770-a0c4-bbc32f6dac30")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "a259744c-2714-4a80-8e0c-3dce58265773")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-000061680bfc")
 		(at 153.422 133.694)
 		(property "Reference" "REF**"
@@ -22355,86 +22275,6 @@
 			(layers "F.Cu" "F.Mask")
 			(remove_unused_layers no)
 			(uuid "846fd82b-22d8-4975-96ef-194864cdbd30")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061680c01")
-		(at 155.962 136.234)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "0df3b9e3-d3a6-47a9-a953-11eeaaa7ea7f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "aab6b2cd-3206-495a-9478-cb26c5448761")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "022907c7-a550-454c-857b-1bae0d0d3328")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7c536598-79b3-4074-9490-a6e60dbd8d1f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c42d5615-5b82-435e-90ae-c55f9ed4ed8f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "a2494618-dfd1-4076-a35d-b372fb52bf8e")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "be8c2844-8a88-4f2d-bfd7-0e258bcf4125")
 		)
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
@@ -22675,86 +22515,6 @@
 			(layers "F.Cu" "F.Mask")
 			(remove_unused_layers no)
 			(uuid "7d29167b-592c-46e8-adae-7aeb1653979a")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061680c15")
-		(at 158.502 136.234)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "85d32019-120d-432a-9d09-c52a6684d88f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "714b2e77-f674-40bc-9aef-bf5ebeee6a58")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cb3668c9-b0b9-40e6-8cea-2f1d1aa32938")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "53bf26a4-b740-48e0-8b80-874634fafbd0")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f7a5107-773d-4c35-8cfd-d4e2d6da1412")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "58b4b1ef-f56f-4112-b27e-047665995bad")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "7f220f95-587a-4db3-973f-b03f690a967c")
 		)
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
@@ -23079,86 +22839,6 @@
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061680c2e")
-		(at 155.962 131.154)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "2264b28d-0af1-49c2-aba1-012b9c0efca8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "38f5f8b5-2dac-4878-ab9b-01e54979c9e9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2a85acb0-82c6-4a9c-bacf-044e4b607ef7")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "103695a7-df06-4d0b-9d5c-4a818ca6fcd6")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "39143c7d-7d96-4032-8584-a79db35421d5")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "9bba39a6-22cc-4d5b-bf36-80894a376441")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "a7b512b3-8df9-4eb1-9f2f-119f29020acb")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-000061680c33")
 		(at 155.962 138.774)
 		(property "Reference" "REF**"
@@ -23395,166 +23075,6 @@
 			(layers "F.Cu" "F.Mask")
 			(remove_unused_layers no)
 			(uuid "05252685-791c-41f9-bf7d-84784c38bd51")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061680c42")
-		(at 158.502 133.694)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "8505a681-dc7d-478c-8410-3b2fb5e0aed3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "71dad369-4b4f-4dd2-b35e-1fbaec2f2bc8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3dcfaa49-dfd4-460c-9c76-baa40402ad50")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e6438ad7-34b6-4f53-a742-f3d80bf0165b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a6e97e74-7158-4e06-ae07-ecd5321299f2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "6cf14e6b-bc19-47cc-84b8-845aaf419331")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "584882e2-eabe-4455-93fb-722ecdfe87be")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061680c47")
-		(at 158.502 131.154)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "37cb6de6-df05-44ee-bc7f-09d87243db34")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "dfc15420-6c5c-463b-84ca-245518a72ab1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "45072dd9-3744-455b-bb61-1b5f1b3b1df7")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9b818929-0cb2-4c7b-93f3-d0e0fac4f98a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "02572b8f-9b15-4c41-9e85-2c5dc8597b2e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "d08d1333-6091-402d-b288-e33e2a084273")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "a58fa7ec-c902-488f-a98e-866fd59c082c")
 		)
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
@@ -24919,86 +24439,6 @@
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-0000616810e3")
-		(at 166.122 131.154)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "309d1b77-b40b-44b1-9ff0-55c02e8a8518")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "af5f74c5-0f47-4a29-a6cd-c0df33e1d715")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1bbf1bc4-d5bf-4535-b549-6f447f83bed1")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d4cbc343-1ea5-4e50-8b29-f5421941256a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f874696b-c94a-4ae9-a6c9-f049579aecc6")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "8e39634d-d976-4c41-82ad-51fb91bdc71e")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "525edeec-da4e-44b9-839a-4f9f4c476951")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000616810e8")
 		(at 163.582 128.614)
 		(property "Reference" "REF**"
@@ -25079,486 +24519,6 @@
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-0000616810ed")
-		(at 163.582 131.154)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "510b5d4a-e0ea-4d4b-b598-63c61e7b3b63")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "175cfa0d-2070-404d-a40e-a35f94a41f73")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "edcc3066-5ea5-4f56-bb94-53ce9100d236")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "763b35ae-84b6-4294-b524-a82c3a1cfaa3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a62e46d0-d684-4b77-b31f-b94787d0dae1")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "1034a12e-bf16-4b02-80ca-3d501efdff21")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "ee2282ca-7a2d-4312-ade5-967e3f359ff5")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-0000616810f2")
-		(at 166.122 133.694)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "fc60ceda-e9be-466a-98aa-ef5a89b65452")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "0bf251f8-0d7b-4537-b861-e27be2156af9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "116b278d-4976-4cdc-8f34-6688f459b81f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "77ae9c8e-6605-4649-94eb-d47aa084bf48")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d8b9f3a1-727f-4f65-a354-7e1c29b56b55")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "d67a6067-96d6-4396-95b6-963760fe95f0")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "29754dd7-41f2-40b2-95dc-72984f60bcc0")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-0000616810f7")
-		(at 161.042 131.154)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "c9a599cc-1096-4e30-a2f1-92c9a6ad198c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "62e8788b-d05f-490e-8eb6-b1d534d53e9e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b5803088-0a4c-4e5a-9629-5cc9396a7061")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "49a7769f-a98c-4263-859c-a57c73a9eb17")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "96d623b6-b9b9-49ee-9e14-f0a96be629c5")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "41a35cd4-7b9a-4a2a-a202-59e82c09a409")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "93078c44-1741-4ce8-85a5-09af759820b1")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-0000616810fc")
-		(at 166.122 136.234)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "92c5f0fd-1582-40dc-8adf-baa8ea4caf4e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "404eb97f-a107-4cd4-b40a-1aeeb28a2d07")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f257e048-7a18-4ef5-a67d-065677e97ef7")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "949b8e3f-d647-443c-b5b3-fe9992fa27de")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7445a95b-3646-47e5-b876-bafb7041c14a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "6ce70ab6-25ad-4c11-ac98-8de9693a118c")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "59a6c6bf-1154-4ead-ac46-6b0d5519909f")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061681101")
-		(at 161.042 133.694)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "a8277a42-8996-4b9a-8060-08d110e4f43b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "5b5b58db-a0b6-446d-b055-7aad479a6af7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e3591c65-0495-44af-8bd6-605e44013477")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "af31da0d-3b40-4e57-a375-3fdca9a2230c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "26f9804a-f5dc-4048-9adb-936f00f3f93a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "36f49d42-fa39-448f-98c0-02a80573ab17")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "5954bc6b-6ee0-443b-a97a-b86816de2bd9")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061681106")
-		(at 163.582 136.234)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "cbc386cd-1332-4075-9e57-ba4eded31d0d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "593a7b2d-48ab-4cd3-877c-085f234ab9f1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fd87e737-8ea6-4658-85e0-366f8f9b7d85")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a0b806f3-dbaf-43e2-a0be-2df1f4e29d4e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fba3ccf2-c7d1-49ca-990b-7f62e7afa0c6")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "36ed2583-5e71-4047-9f61-5fcc21536d97")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "140b269b-56f1-4a3e-ab12-2a03bcf210ce")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006168110b")
 		(at 161.042 128.614)
 		(property "Reference" "REF**"
@@ -25635,166 +24595,6 @@
 			(layers "F.Cu" "F.Mask")
 			(remove_unused_layers no)
 			(uuid "3d0d00cd-c014-491d-9691-cc4a6e3d208b")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061681110")
-		(at 163.582 133.694)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "1587072e-bba4-4301-be5f-b73ec4aa7e25")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "06d1aa65-6d43-4e77-85e9-dd0c75737506")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f8726494-7a92-4dd3-919e-bea6a43fb8bd")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "85960997-6768-4ef6-bc71-2ce7ac4d49a2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "45a354e3-c09d-48a6-86b6-28d6a6a36f64")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "5750e63e-fe75-4d8a-8ede-36cb965f7002")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "708d71e8-6edb-47b2-b95c-4395abe99692")
-		)
-	)
-	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-		(layer "F.Cu")
-		(uuid "00000000-0000-0000-0000-000061681115")
-		(at 161.042 136.234)
-		(property "Reference" "REF**"
-			(at 0 -1.016 0)
-			(layer "F.Fab")
-			(uuid "7a29d413-8a3b-4dec-a65e-df665f1425e5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
-			(at 0 -2.54 0)
-			(layer "F.Fab")
-			(uuid "ec3db7f5-dc36-4575-9570-78768865e8c3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1e843e9e-eb3b-43f0-a4f9-b2ca23593875")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4a34460a-15c8-4cb1-ac60-dfb1a69334c7")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fa0249ec-ff8a-49ec-a9f6-7c0abedd1555")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(attr through_hole)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 2.24 2.24)
-			(drill 1)
-			(layers "B.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(uuid "5e37f75b-a11d-4059-bb2c-31f2ac71f386")
-		)
-		(pad "2" thru_hole rect
-			(at 0 0)
-			(size 2.04 2.04)
-			(drill 1)
-			(layers "F.Cu" "F.Mask")
-			(remove_unused_layers no)
-			(uuid "db060663-fd6d-47a4-b160-a5b28e643ad5")
 		)
 	)
 	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
@@ -26703,16 +25503,14 @@
 			(uuid "2e243c88-0abd-4ff7-b3f7-2d27dc25a14b")
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "08011151-069f-465d-a713-804fc3e6f444")
-		(at 160.8745 82.134)
-		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
-		(tags "resistor handsolder")
-		(property "Reference" "R1"
-			(at 0 -1.43 0)
-			(layer "F.SilkS")
-			(uuid "078b1892-095f-4522-b7aa-b4fc49130643")
+		(uuid "03770200-489f-481e-a58f-164bcaefdd7e")
+		(at 166.122 136.234)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "6d0e05c9-2771-4568-bf63-86c1bc67f7e1")
 			(effects
 				(font
 					(size 1 1)
@@ -26720,8 +25518,91 @@
 				)
 			)
 		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "4a41fbc8-b7b9-441a-bed6-812a0eec9ae0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14941114-8116-4fc2-bc76-07424ac8c645")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76ebef6a-d758-4111-a151-487e1333fafa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd57a7eb-7225-4f9b-bb80-3abb2dad6502")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "51411abc-add6-4163-be61-b0cbbf00f32f")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "e8febe59-2fef-418e-8700-040e6c9ba7e5")
+		)
+	)
+	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(layer "F.Cu")
+		(uuid "08011151-069f-465d-a713-804fc3e6f444")
+		(at 180.346 145.7825 90)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "resistor handsolder")
+		(property "Reference" "R1"
+			(at -2.1825 0 90)
+			(layer "F.SilkS")
+			(uuid "078b1892-095f-4522-b7aa-b4fc49130643")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.0625)
+					(bold yes)
+				)
+			)
+		)
 		(property "Value" "3K9"
-			(at 0 1.43 0)
+			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "a7b04ecc-2424-48d6-8731-c153fc7d0482")
 			(effects
@@ -26732,7 +25613,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26745,7 +25626,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26758,7 +25639,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26796,26 +25677,6 @@
 			(uuid "ce175e4b-ad68-4ba6-a875-771bc0edb982")
 		)
 		(fp_line
-			(start -1.65 -0.73)
-			(end 1.65 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "6bffc7fd-8912-4306-9863-e0d0239522d9")
-		)
-		(fp_line
-			(start -1.65 0.73)
-			(end -1.65 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "cfe1d724-b2cf-4962-81a1-8a3a5343bd74")
-		)
-		(fp_line
 			(start 1.65 -0.73)
 			(end 1.65 0.73)
 			(stroke
@@ -26824,6 +25685,16 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "29dbedc2-a563-4f8e-bd22-091c13a82fea")
+		)
+		(fp_line
+			(start -1.65 -0.73)
+			(end 1.65 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "6bffc7fd-8912-4306-9863-e0d0239522d9")
 		)
 		(fp_line
 			(start 1.65 0.73)
@@ -26836,24 +25707,14 @@
 			(uuid "400c400a-db06-4f02-8da2-36f3a4f2bda2")
 		)
 		(fp_line
-			(start -0.8 -0.4125)
-			(end 0.8 -0.4125)
+			(start -1.65 0.73)
+			(end -1.65 -0.73)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "8fb67c76-7f02-4a92-9744-21574183893b")
-		)
-		(fp_line
-			(start -0.8 0.4125)
-			(end -0.8 -0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "4e17f5e0-9ca6-4d4d-80e7-384c1330a4bc")
+			(layer "F.CrtYd")
+			(uuid "cfe1d724-b2cf-4962-81a1-8a3a5343bd74")
 		)
 		(fp_line
 			(start 0.8 -0.4125)
@@ -26866,6 +25727,16 @@
 			(uuid "36c40a98-6b7b-4d99-ad06-fad79814e2ad")
 		)
 		(fp_line
+			(start -0.8 -0.4125)
+			(end 0.8 -0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8fb67c76-7f02-4a92-9744-21574183893b")
+		)
+		(fp_line
 			(start 0.8 0.4125)
 			(end -0.8 0.4125)
 			(stroke
@@ -26875,8 +25746,18 @@
 			(layer "F.Fab")
 			(uuid "c48d1b8d-c555-4460-81c1-eb8b3e431ef1")
 		)
+		(fp_line
+			(start -0.8 0.4125)
+			(end -0.8 -0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4e17f5e0-9ca6-4d4d-80e7-384c1330a4bc")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "897982ba-2c90-431f-9eed-c13a0a5f3ee1")
 			(effects
@@ -26887,7 +25768,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.9125 0)
+			(at -0.9125 0 90)
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -26896,7 +25777,7 @@
 			(uuid "c3459949-e426-441a-97bc-be3fedd66abf")
 		)
 		(pad "2" smd roundrect
-			(at 0.9125 0)
+			(at 0.9125 0 90)
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -26916,16 +25797,14 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "106c8d0e-9fb5-4d1c-a4cd-479a31648afc")
-		(at 176.812 80.634)
-		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
-		(tags "net tie solder jumper bridged")
-		(property "Reference" "JP1"
-			(at 0 -1.8 0)
-			(layer "F.SilkS")
-			(uuid "b5d67f7d-72a4-432c-9b24-0c1a114a9113")
+		(uuid "0f6cf4ce-ff36-43fa-a400-9a260fdeeaa6")
+		(at 161.042 133.714)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "ed36fcde-8174-4fc7-8152-19f776614e81")
 			(effects
 				(font
 					(size 1 1)
@@ -26933,8 +25812,91 @@
 				)
 			)
 		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "182bcf4b-f951-4436-9b80-5f8420a11c9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83d0ac16-e16f-483a-af1e-36c7257fe624")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fed6d396-5d05-4a9c-bd0f-7afbf1aad9d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a14304fc-cc6d-4a8c-9466-c442103df4cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "349114cc-6316-4346-ad01-3506ae418f21")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "3d0d00cd-c014-491d-9691-cc4a6e3d208b")
+		)
+	)
+	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+		(layer "F.Cu")
+		(uuid "106c8d0e-9fb5-4d1c-a4cd-479a31648afc")
+		(at 182.632 145.774 -90)
+		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
+		(tags "net tie solder jumper bridged")
+		(property "Reference" "JP1"
+			(at 0 -1.8 90)
+			(layer "F.SilkS")
+			(uuid "b5d67f7d-72a4-432c-9b24-0c1a114a9113")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.0625)
+					(bold yes)
+				)
+			)
+		)
 		(property "Value" "SolderJumper_2_Bridged"
-			(at 0 1.9 0)
+			(at 0 1.9 90)
 			(layer "F.Fab")
 			(uuid "828b2869-dced-4655-bcac-1e0f36d83624")
 			(effects
@@ -26945,7 +25907,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26958,7 +25920,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -26971,7 +25933,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27003,26 +25965,6 @@
 			(uuid "ef8f9212-501a-4498-82e1-991566c1a69a")
 		)
 		(fp_line
-			(start -1.4 0.3)
-			(end -1.4 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "64e7efdb-c3c8-44e9-b0bf-20d3de41641e")
-		)
-		(fp_line
-			(start -0.7 -1)
-			(end 0.7 -1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "317d4678-8fc0-4289-9856-c4ad89cc7940")
-		)
-		(fp_line
 			(start 0.7 1)
 			(end -0.7 1)
 			(stroke
@@ -27031,6 +25973,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "f34ff72e-2b9f-4647-bfde-e34dfbaac6f0")
+		)
+		(fp_line
+			(start -1.4 0.3)
+			(end -1.4 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "64e7efdb-c3c8-44e9-b0bf-20d3de41641e")
 		)
 		(fp_line
 			(start 1.4 -0.3)
@@ -27042,16 +25994,15 @@
 			(layer "F.SilkS")
 			(uuid "66c2d1ca-e086-457b-ab7a-483dca819125")
 		)
-		(fp_arc
-			(start -1.4 -0.3)
-			(mid -1.194975 -0.794975)
-			(end -0.7 -1)
+		(fp_line
+			(start -0.7 -1)
+			(end 0.7 -1)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "afbeb446-e867-4496-b882-32dd7c6cfd3a")
+			(uuid "317d4678-8fc0-4289-9856-c4ad89cc7940")
 		)
 		(fp_arc
 			(start -0.7 1)
@@ -27065,17 +26016,6 @@
 			(uuid "46d5e98d-2a22-4acc-adf6-98c21f545104")
 		)
 		(fp_arc
-			(start 0.7 -1)
-			(mid 1.194975 -0.794975)
-			(end 1.4 -0.3)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "502c4028-ff72-49dc-b03d-599f79e5b0ea")
-		)
-		(fp_arc
 			(start 1.4 0.3)
 			(mid 1.194975 0.794975)
 			(end 0.7 1)
@@ -27086,25 +26026,27 @@
 			(layer "F.SilkS")
 			(uuid "1d34e9b6-c181-4ab1-a13e-a2bcc2434c4e")
 		)
-		(fp_line
-			(start -1.65 -1.25)
-			(end -1.65 1.25)
+		(fp_arc
+			(start -1.4 -0.3)
+			(mid -1.194975 -0.794975)
+			(end -0.7 -1)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "5ddb2dd4-a473-4de4-a69d-70f4cf0966af")
+			(layer "F.SilkS")
+			(uuid "afbeb446-e867-4496-b882-32dd7c6cfd3a")
 		)
-		(fp_line
-			(start -1.65 -1.25)
-			(end 1.65 -1.25)
+		(fp_arc
+			(start 0.7 -1)
+			(mid 1.194975 -0.794975)
+			(end 1.4 -0.3)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "fdf3147d-a567-4bb8-aaf1-e817da62afda")
+			(layer "F.SilkS")
+			(uuid "502c4028-ff72-49dc-b03d-599f79e5b0ea")
 		)
 		(fp_line
 			(start 1.65 1.25)
@@ -27126,8 +26068,28 @@
 			(layer "F.CrtYd")
 			(uuid "01d3f1ec-f957-43f0-b02e-50c142a30aa4")
 		)
+		(fp_line
+			(start -1.65 -1.25)
+			(end -1.65 1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5ddb2dd4-a473-4de4-a69d-70f4cf0966af")
+		)
+		(fp_line
+			(start -1.65 -1.25)
+			(end 1.65 -1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "fdf3147d-a567-4bb8-aaf1-e817da62afda")
+		)
 		(pad "1" smd custom
-			(at -0.65 0)
+			(at -0.65 0 270)
 			(size 1 0.5)
 			(layers "F.Cu" "F.Mask")
 			(net 32 "Net-(JP1-A)")
@@ -27163,7 +26125,7 @@
 			(uuid "3f9eee8e-b935-4877-9db1-6d625f49896a")
 		)
 		(pad "2" smd custom
-			(at 0.65 0)
+			(at 0.65 0 270)
 			(size 1 0.5)
 			(layers "F.Cu" "F.Mask")
 			(net 1 "GND")
@@ -27199,14 +26161,174 @@
 			(uuid "6f9ae207-30ea-4cae-97c9-3e17bd778b33")
 		)
 	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "1c482917-8bd5-4f79-b2a7-7266dfbc9beb")
+		(at 158.502 136.234)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "4a581f8b-134e-4bda-8010-7966b66c0226")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "7398c17c-48da-46a6-a528-4b7acd480402")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55fa7bd6-7643-48fb-961c-8bc2bbf7eccb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe8ec605-5f12-484a-bd0d-dec9445fc246")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "491ea2c8-ab6e-4140-87dc-4c915896bc69")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "84efa64d-84a4-4500-92c3-d0bab5ae80ce")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "e7f20c0d-e0a4-4585-a2df-47711c52cd39")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "289df72b-491b-4770-ad44-605300eee6e2")
+		(at 155.962 131.134)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "5dca3cdd-4f90-45d4-94d2-71288bbcd800")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "72c23e5e-3e14-4e9e-a007-a8c2a143d749")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c96b8026-0330-4110-9477-7660f41980f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b488ba77-cccc-430b-91cd-054d6cd112fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6983c51-0fa5-4104-9b24-0196f86ee6ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "79c1ecf1-c0d3-498c-9ca3-a8179005d3cf")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "181d6971-27ab-46bb-8834-85977c6790ad")
+		)
+	)
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "35b7ef41-7924-44ce-bf80-170319be5f56")
-		(at 163.487 76.729)
+		(at 179.947 140.109 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U1"
-			(at 0 -3.4 0)
+			(at 0 -3.4 90)
 			(layer "F.SilkS")
 			(uuid "b98b8b12-2a49-4c39-b0dd-b6532a7e0da1")
 			(effects
@@ -27217,7 +26339,7 @@
 			)
 		)
 		(property "Value" "CAT24C32"
-			(at 0 3.4 0)
+			(at 0 3.4 90)
 			(layer "F.Fab")
 			(uuid "5e109c8a-f212-493a-a8f0-79542fe9075c")
 			(effects
@@ -27228,7 +26350,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27241,7 +26363,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/cat24c32-d.pdf"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27254,7 +26376,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27271,26 +26393,6 @@
 		(sheetname "Root")
 		(sheetfile "pcb.kicad_sch")
 		(attr smd)
-		(fp_line
-			(start 0 -2.56)
-			(end -1.95 -2.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8ee7dc3f-6d74-4dc4-9a0a-d85081846344")
-		)
-		(fp_line
-			(start 0 -2.56)
-			(end 1.95 -2.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8f0cbdd8-7d70-4d50-810b-37f3041a0678")
-		)
 		(fp_line
 			(start 0 2.56)
 			(end -1.95 2.56)
@@ -27311,6 +26413,26 @@
 			(layer "F.SilkS")
 			(uuid "0d7fbcfb-a2ad-4ea5-b1c3-db1f73e81309")
 		)
+		(fp_line
+			(start 0 -2.56)
+			(end -1.95 -2.56)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8ee7dc3f-6d74-4dc4-9a0a-d85081846344")
+		)
+		(fp_line
+			(start 0 -2.56)
+			(end 1.95 -2.56)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8f0cbdd8-7d70-4d50-810b-37f3041a0678")
+		)
 		(fp_poly
 			(pts
 				(xy -2.7 -2.465) (xy -2.94 -2.795) (xy -2.46 -2.795) (xy -2.7 -2.465)
@@ -27324,16 +26446,6 @@
 			(uuid "afc53590-6737-461e-b279-520589f766dc")
 		)
 		(fp_line
-			(start -3.7 -2.7)
-			(end -3.7 2.7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c07089cb-7542-4f10-8341-26893b59b8c0")
-		)
-		(fp_line
 			(start -3.7 2.7)
 			(end 3.7 2.7)
 			(stroke
@@ -27342,16 +26454,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "94c62491-254f-4dbd-ad9e-fb25ebe2c3e6")
-		)
-		(fp_line
-			(start 3.7 -2.7)
-			(end -3.7 -2.7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e86a7b7b-6ecf-4e3c-a9b4-4c6bbf8fa997")
 		)
 		(fp_line
 			(start 3.7 2.7)
@@ -27364,14 +26466,24 @@
 			(uuid "157b394e-1bef-4a76-9d5a-a9953cc792fd")
 		)
 		(fp_line
-			(start -1.95 -1.475)
-			(end -0.975 -2.45)
+			(start -3.7 -2.7)
+			(end -3.7 2.7)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "776ea438-5233-48b1-ae46-cd4a0a2e72be")
+			(layer "F.CrtYd")
+			(uuid "c07089cb-7542-4f10-8341-26893b59b8c0")
+		)
+		(fp_line
+			(start 3.7 -2.7)
+			(end -3.7 -2.7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e86a7b7b-6ecf-4e3c-a9b4-4c6bbf8fa997")
 		)
 		(fp_line
 			(start -1.95 2.45)
@@ -27382,6 +26494,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "486b55bd-6c88-4637-9eda-3ee8badab02f")
+		)
+		(fp_line
+			(start 1.95 2.45)
+			(end -1.95 2.45)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "fb1135fc-e8d3-41ea-b6d3-4e50de9d8b3b")
+		)
+		(fp_line
+			(start -1.95 -1.475)
+			(end -0.975 -2.45)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "776ea438-5233-48b1-ae46-cd4a0a2e72be")
 		)
 		(fp_line
 			(start -0.975 -2.45)
@@ -27403,18 +26535,8 @@
 			(layer "F.Fab")
 			(uuid "bfa3c226-b1b4-4750-a8fe-a310170ef53d")
 		)
-		(fp_line
-			(start 1.95 2.45)
-			(end -1.95 2.45)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "fb1135fc-e8d3-41ea-b6d3-4e50de9d8b3b")
-		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "718b00f2-4961-4663-84e9-e005c7f1fbe4")
 			(effects
@@ -27425,7 +26547,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -2.475 -1.905)
+			(at -2.475 -1.905 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27435,7 +26557,7 @@
 			(uuid "ce31b1d8-6ac8-4918-ba3e-a560ea57cb51")
 		)
 		(pad "2" smd roundrect
-			(at -2.475 -0.635)
+			(at -2.475 -0.635 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27445,7 +26567,7 @@
 			(uuid "ef72ccd0-e6a1-4cd4-a298-9fbc47492b64")
 		)
 		(pad "3" smd roundrect
-			(at -2.475 0.635)
+			(at -2.475 0.635 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27455,7 +26577,7 @@
 			(uuid "eb89359d-1188-416d-9140-5fd54e2303ce")
 		)
 		(pad "4" smd roundrect
-			(at -2.475 1.905)
+			(at -2.475 1.905 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27465,7 +26587,7 @@
 			(uuid "2be76c1a-e79d-4c2e-a5f4-227501059e19")
 		)
 		(pad "5" smd roundrect
-			(at 2.475 1.905)
+			(at 2.475 1.905 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27475,7 +26597,7 @@
 			(uuid "239a5d5b-1ee2-485f-b4c3-d9b4f4d59547")
 		)
 		(pad "6" smd roundrect
-			(at 2.475 0.635)
+			(at 2.475 0.635 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27485,7 +26607,7 @@
 			(uuid "6ce97a0c-2b6e-42ea-aaad-e161c33e6589")
 		)
 		(pad "7" smd roundrect
-			(at 2.475 -0.635)
+			(at 2.475 -0.635 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27495,7 +26617,7 @@
 			(uuid "383d95c1-b6c5-4049-9de6-85913fe1c252")
 		)
 		(pad "8" smd roundrect
-			(at 2.475 -1.905)
+			(at 2.475 -1.905 270)
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27516,16 +26638,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "3fe90ceb-4112-458e-8c6c-0986f4cecba9")
-		(at 153.332 77.129)
-		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
-		(tags "resistor handsolder")
-		(property "Reference" "R2"
-			(at 0 -1.43 0)
-			(layer "F.SilkS")
-			(uuid "91f2bde0-5ced-4133-a8b5-05f09bdaf26f")
+		(uuid "37f776ee-b4ea-4339-8e58-2f87eee94ee9")
+		(at 163.582 131.134)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "2357ed4b-546c-4327-9f0a-98d2998a793e")
 			(effects
 				(font
 					(size 1 1)
@@ -27533,8 +26653,90 @@
 				)
 			)
 		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "7a6c1c6c-9521-4a71-bfb3-9702b469bd5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e2880d4-2554-4851-a2c0-84ed2463aced")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9115205-6194-4ddc-97e6-4083aa5b43b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9516d3b5-0757-46e6-88ca-b35870462b24")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "0c42046d-b01d-4330-8140-2e303ee6d46d")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "376e9fd5-7cee-4883-a8cf-402724a4c9fe")
+		)
+	)
+	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(layer "F.Cu")
+		(uuid "3fe90ceb-4112-458e-8c6c-0986f4cecba9")
+		(at 177.188 145.7825 90)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "resistor handsolder")
+		(property "Reference" "R2"
+			(at -2.1825 0 90)
+			(layer "F.SilkS")
+			(uuid "91f2bde0-5ced-4133-a8b5-05f09bdaf26f")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.0625)
+				)
+			)
+		)
 		(property "Value" "3K9"
-			(at 0 1.43 0)
+			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "3d268b3e-295c-42ff-9b78-f3f610372204")
 			(effects
@@ -27545,7 +26747,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27558,7 +26760,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27571,7 +26773,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27609,26 +26811,6 @@
 			(uuid "b388f35f-9ee5-4ccb-b4ad-8059e3009079")
 		)
 		(fp_line
-			(start -1.65 -0.73)
-			(end 1.65 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c5ab64f7-1b7d-4fb5-a5ea-4fa4de5ceaf8")
-		)
-		(fp_line
-			(start -1.65 0.73)
-			(end -1.65 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "ec68d08b-1fc3-4f51-b5c6-50fd76cabcb7")
-		)
-		(fp_line
 			(start 1.65 -0.73)
 			(end 1.65 0.73)
 			(stroke
@@ -27637,6 +26819,16 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "19c0a0af-e076-4afc-8225-1c397408a638")
+		)
+		(fp_line
+			(start -1.65 -0.73)
+			(end 1.65 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c5ab64f7-1b7d-4fb5-a5ea-4fa4de5ceaf8")
 		)
 		(fp_line
 			(start 1.65 0.73)
@@ -27649,24 +26841,14 @@
 			(uuid "935ddc0b-8666-4a3b-ab5b-ff57c25fe242")
 		)
 		(fp_line
-			(start -0.8 -0.4125)
-			(end 0.8 -0.4125)
+			(start -1.65 0.73)
+			(end -1.65 -0.73)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "46ed8083-8e64-467a-b3a5-0ddf8a232c68")
-		)
-		(fp_line
-			(start -0.8 0.4125)
-			(end -0.8 -0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "0664457f-3e32-4947-afa8-e7ab02a26aa9")
+			(layer "F.CrtYd")
+			(uuid "ec68d08b-1fc3-4f51-b5c6-50fd76cabcb7")
 		)
 		(fp_line
 			(start 0.8 -0.4125)
@@ -27679,6 +26861,16 @@
 			(uuid "801f16e9-d4a2-4d36-8aba-c218e1ae03b1")
 		)
 		(fp_line
+			(start -0.8 -0.4125)
+			(end 0.8 -0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "46ed8083-8e64-467a-b3a5-0ddf8a232c68")
+		)
+		(fp_line
 			(start 0.8 0.4125)
 			(end -0.8 0.4125)
 			(stroke
@@ -27688,8 +26880,18 @@
 			(layer "F.Fab")
 			(uuid "583d2652-e60d-44fa-b816-2b959aa8fb73")
 		)
+		(fp_line
+			(start -0.8 0.4125)
+			(end -0.8 -0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "0664457f-3e32-4947-afa8-e7ab02a26aa9")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "3ee9911e-2646-4999-8737-52c031ebf20d")
 			(effects
@@ -27700,7 +26902,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.9125 0)
+			(at -0.9125 0 90)
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27709,7 +26911,7 @@
 			(uuid "25bea77a-34ca-4a08-ae55-5a46d52d53b5")
 		)
 		(pad "2" smd roundrect
-			(at 0.9125 0)
+			(at 0.9125 0 90)
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27729,16 +26931,14 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
 		(layer "F.Cu")
-		(uuid "4a12f892-f453-4379-ab2f-d95c3d3acde3")
-		(at 153.332 79.639)
-		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
-		(tags "resistor handsolder")
-		(property "Reference" "R3"
-			(at 0 -1.43 0)
-			(layer "F.SilkS")
-			(uuid "c06762f1-1ad7-40bd-8a2f-6c11be98646d")
+		(uuid "4787d8bd-a2d7-46d8-8a08-ac9a62ec4eac")
+		(at 158.502 133.694)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "4a581f8b-134e-4bda-8010-7966b66c0226")
 			(effects
 				(font
 					(size 1 1)
@@ -27746,8 +26946,91 @@
 				)
 			)
 		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "7398c17c-48da-46a6-a528-4b7acd480402")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55fa7bd6-7643-48fb-961c-8bc2bbf7eccb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe8ec605-5f12-484a-bd0d-dec9445fc246")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "491ea2c8-ab6e-4140-87dc-4c915896bc69")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "84efa64d-84a4-4500-92c3-d0bab5ae80ce")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "e7f20c0d-e0a4-4585-a2df-47711c52cd39")
+		)
+	)
+	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(layer "F.Cu")
+		(uuid "4a12f892-f453-4379-ab2f-d95c3d3acde3")
+		(at 178.822 145.7825 90)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "resistor handsolder")
+		(property "Reference" "R3"
+			(at -2.1825 0 90)
+			(layer "F.SilkS")
+			(uuid "c06762f1-1ad7-40bd-8a2f-6c11be98646d")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.0625)
+					(bold yes)
+				)
+			)
+		)
 		(property "Value" "3K9"
-			(at 0 1.43 0)
+			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "582f7103-fad2-4048-81c6-a2aa2917a613")
 			(effects
@@ -27758,7 +27041,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27771,7 +27054,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27784,7 +27067,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -27822,26 +27105,6 @@
 			(uuid "90e8704e-39e5-4533-b9d6-40f278c91407")
 		)
 		(fp_line
-			(start -1.65 -0.73)
-			(end 1.65 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9866f0d0-e5e7-4253-9fbd-2fb1e9a104d2")
-		)
-		(fp_line
-			(start -1.65 0.73)
-			(end -1.65 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7c1d9fee-2a24-4b0f-9eaa-1f5c7915e2d0")
-		)
-		(fp_line
 			(start 1.65 -0.73)
 			(end 1.65 0.73)
 			(stroke
@@ -27850,6 +27113,16 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "06395e35-590b-468c-99b7-e666c76d971f")
+		)
+		(fp_line
+			(start -1.65 -0.73)
+			(end 1.65 -0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9866f0d0-e5e7-4253-9fbd-2fb1e9a104d2")
 		)
 		(fp_line
 			(start 1.65 0.73)
@@ -27862,24 +27135,14 @@
 			(uuid "73d1f9b0-a3a3-434b-a04f-9e4bd71ea89e")
 		)
 		(fp_line
-			(start -0.8 -0.4125)
-			(end 0.8 -0.4125)
+			(start -1.65 0.73)
+			(end -1.65 -0.73)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "807de248-6fad-4325-ae26-0b24ebe821ca")
-		)
-		(fp_line
-			(start -0.8 0.4125)
-			(end -0.8 -0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c6d85635-62e4-4a20-af39-d61e9ba53d01")
+			(layer "F.CrtYd")
+			(uuid "7c1d9fee-2a24-4b0f-9eaa-1f5c7915e2d0")
 		)
 		(fp_line
 			(start 0.8 -0.4125)
@@ -27892,6 +27155,16 @@
 			(uuid "bb8b5851-0392-4bb4-90f4-e2dad0c5df69")
 		)
 		(fp_line
+			(start -0.8 -0.4125)
+			(end 0.8 -0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "807de248-6fad-4325-ae26-0b24ebe821ca")
+		)
+		(fp_line
 			(start 0.8 0.4125)
 			(end -0.8 0.4125)
 			(stroke
@@ -27901,8 +27174,18 @@
 			(layer "F.Fab")
 			(uuid "4219171c-757e-47b0-ab65-c1c1f2a3c43a")
 		)
+		(fp_line
+			(start -0.8 0.4125)
+			(end -0.8 -0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c6d85635-62e4-4a20-af39-d61e9ba53d01")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "3b5f2971-4357-4be2-8193-de5553ac3b41")
 			(effects
@@ -27913,7 +27196,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.9125 0)
+			(at -0.9125 0 90)
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27922,7 +27205,7 @@
 			(uuid "0929d3f6-c699-4164-9904-60197b441ab4")
 		)
 		(pad "2" smd roundrect
-			(at 0.9125 0)
+			(at 0.9125 0 90)
 			(size 0.975 0.95)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
@@ -27940,6 +27223,726 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "4e3f125e-9ad3-46ad-8ee7-580710c7ae4e")
+		(at 161.042 131.154)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "ed36fcde-8174-4fc7-8152-19f776614e81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "182bcf4b-f951-4436-9b80-5f8420a11c9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83d0ac16-e16f-483a-af1e-36c7257fe624")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fed6d396-5d05-4a9c-bd0f-7afbf1aad9d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a14304fc-cc6d-4a8c-9466-c442103df4cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "349114cc-6316-4346-ad01-3506ae418f21")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "3d0d00cd-c014-491d-9691-cc4a6e3d208b")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "8008dfa7-eccc-43b9-93a1-207375c4ce95")
+		(at 163.582 133.694)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "2357ed4b-546c-4327-9f0a-98d2998a793e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "7a6c1c6c-9521-4a71-bfb3-9702b469bd5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e2880d4-2554-4851-a2c0-84ed2463aced")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9115205-6194-4ddc-97e6-4083aa5b43b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9516d3b5-0757-46e6-88ca-b35870462b24")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "0c42046d-b01d-4330-8140-2e303ee6d46d")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "376e9fd5-7cee-4883-a8cf-402724a4c9fe")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "905f2cd2-e007-42a6-bcfa-6d14b7d233b9")
+		(at 161.042 136.254)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "ed36fcde-8174-4fc7-8152-19f776614e81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "182bcf4b-f951-4436-9b80-5f8420a11c9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83d0ac16-e16f-483a-af1e-36c7257fe624")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fed6d396-5d05-4a9c-bd0f-7afbf1aad9d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a14304fc-cc6d-4a8c-9466-c442103df4cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "349114cc-6316-4346-ad01-3506ae418f21")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "3d0d00cd-c014-491d-9691-cc4a6e3d208b")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "ab9cb150-cd81-4b71-82b5-0d98e8fd510a")
+		(at 166.122 131.134)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "6d0e05c9-2771-4568-bf63-86c1bc67f7e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "4a41fbc8-b7b9-441a-bed6-812a0eec9ae0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14941114-8116-4fc2-bc76-07424ac8c645")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76ebef6a-d758-4111-a151-487e1333fafa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd57a7eb-7225-4f9b-bb80-3abb2dad6502")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "51411abc-add6-4163-be61-b0cbbf00f32f")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "e8febe59-2fef-418e-8700-040e6c9ba7e5")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "bbf5c89c-b0a5-4ef3-9d93-3e89a05716f3")
+		(at 155.962 136.234)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "5dca3cdd-4f90-45d4-94d2-71288bbcd800")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "72c23e5e-3e14-4e9e-a007-a8c2a143d749")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c96b8026-0330-4110-9477-7660f41980f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b488ba77-cccc-430b-91cd-054d6cd112fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6983c51-0fa5-4104-9b24-0196f86ee6ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "79c1ecf1-c0d3-498c-9ca3-a8179005d3cf")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "181d6971-27ab-46bb-8834-85977c6790ad")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "c141dceb-cb98-4d9f-a59c-5c2031066fe3")
+		(at 155.962 133.694)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "5dca3cdd-4f90-45d4-94d2-71288bbcd800")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "72c23e5e-3e14-4e9e-a007-a8c2a143d749")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c96b8026-0330-4110-9477-7660f41980f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b488ba77-cccc-430b-91cd-054d6cd112fe")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6983c51-0fa5-4104-9b24-0196f86ee6ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "79c1ecf1-c0d3-498c-9ca3-a8179005d3cf")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "181d6971-27ab-46bb-8834-85977c6790ad")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "c6f5d550-c93b-406f-bd40-19a4d6c77263")
+		(at 163.582 136.234)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "2357ed4b-546c-4327-9f0a-98d2998a793e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "7a6c1c6c-9521-4a71-bfb3-9702b469bd5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e2880d4-2554-4851-a2c0-84ed2463aced")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9115205-6194-4ddc-97e6-4083aa5b43b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9516d3b5-0757-46e6-88ca-b35870462b24")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "0c42046d-b01d-4330-8140-2e303ee6d46d")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "376e9fd5-7cee-4883-a8cf-402724a4c9fe")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "e1ca1a51-4e4f-438e-881d-187ce18c6898")
+		(at 158.502 131.134)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "4a581f8b-134e-4bda-8010-7966b66c0226")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "7398c17c-48da-46a6-a528-4b7acd480402")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55fa7bd6-7643-48fb-961c-8bc2bbf7eccb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe8ec605-5f12-484a-bd0d-dec9445fc246")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "491ea2c8-ab6e-4140-87dc-4c915896bc69")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "84efa64d-84a4-4500-92c3-d0bab5ae80ce")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "e7f20c0d-e0a4-4585-a2df-47711c52cd39")
+		)
+	)
+	(footprint "lib:SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+		(layer "F.Cu")
+		(uuid "f75df075-4149-4ac8-8250-f2a2e093b11c")
+		(at 166.122 133.694)
+		(property "Reference" "REF**"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(uuid "6d0e05c9-2771-4568-bf63-86c1bc67f7e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SquarePad-2.24mm-0.3mm-Back-0.5mm-Front-clearance"
+			(at 0 -2.54 0)
+			(layer "F.Fab")
+			(uuid "4a41fbc8-b7b9-441a-bed6-812a0eec9ae0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14941114-8116-4fc2-bc76-07424ac8c645")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76ebef6a-d758-4111-a151-487e1333fafa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd57a7eb-7225-4f9b-bb80-3abb2dad6502")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.24 2.24)
+			(drill 1)
+			(layers "B.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "51411abc-add6-4163-be61-b0cbbf00f32f")
+		)
+		(pad "2" thru_hole rect
+			(at 0 0)
+			(size 2.04 2.04)
+			(drill 1)
+			(layers "F.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(uuid "e8febe59-2fef-418e-8700-040e6c9ba7e5")
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical"
@@ -29704,7 +29707,7 @@
 			)
 		)
 	)
-	(gr_text "Designed at Core Electronics\nby\nBrenton Schulz\nand\nMichael Ruppe"
+	(gr_text "Designed at Core Electronics\nby\nBrenton Schulz\nand\nMichael Ruppe\nupdated by mtfurlan"
 		(at 135.769 156.173 0)
 		(layer "Dwgs.User")
 		(uuid "c8ffce84-3a2c-40cd-ae9a-4f918edfb2f7")
@@ -29793,39 +29796,6 @@
 			(at 136.9095 86.824 0)
 			(layer "Dwgs.User")
 			(uuid "626564f1-85d1-4ef2-ac05-bd068636eb9f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 2)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.15)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
-		(layer "Dwgs.User")
-		(uuid "8eea0083-6c94-43d9-b6ee-fc7cc47f8800")
-		(pts
-			(xy 165.912 145.554) (xy 166.122 89.554)
-		)
-		(height 10.365746)
-		(gr_text "56.0004 mm"
-			(at 175.232681 117.588559 89.78514183)
-			(layer "Dwgs.User")
-			(uuid "8eea0083-6c94-43d9-b6ee-fc7cc47f8800")
 			(effects
 				(font
 					(size 1 1)
